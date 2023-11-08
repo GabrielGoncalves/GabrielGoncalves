@@ -2,7 +2,7 @@
 ### Olá! Sou o Gabriel Aragão 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-aragao-2912g)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.goncalves29@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.goncalves29@gmail.com)
 
 ![PainelGeral](https://github-readme-stats.vercel.app/api?username=GabrielGoncalves&show_icons=true&theme=dracula)
 
